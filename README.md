@@ -20,7 +20,7 @@ Le code principal se trouve dans le dossier `propre/` :
 
 | Fichier | Description |
 |--------|-------------|
-| `Dataset_building.py` | Génère un fichier `.npy` contenant les données d'entraînement à partir des comportements du robot |
+| `dataset_building.py` | Génère un fichier `.npy` contenant les données d'entraînement à partir des comportements du robot |
 | `Reservoir_test.py` | Teste un ensemble d’hyperparamètres sur le jeu de données généré |
 | `optimisation_reservoir.py` | Utilise `hyperopt` pour optimiser les hyperparamètres du réservoir neuronal |
 
@@ -28,7 +28,7 @@ Le code principal se trouve dans le dossier `propre/` :
 
 1. Générer les données :
    ```bash
-   python3 propre/Dataset_building.py
+   python3 propre/dataset_building.py
 
 2. tester le reservoir :
     ```bash
