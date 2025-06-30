@@ -1,6 +1,6 @@
 # Simulation de Comportement Réactif avec Réservoir Neuronal
 
-Ce projet de stage a été réalisé par **Yves Appriou** au sein de l'équipe [nom de l’équipe] à l’INRIA, sous la supervision de Naomi Chaix Eichel et Nicolas Rougier. Il s’inscrit dans le prolongement des travaux présentés dans la thèse de Naomi Chaix Eichel ([HAL](https://theses.hal.science/tel-04849313)) et du projet [splitter-cells](https://github.com/naomichx/splitter-cells).
+Ce projet de stage a été réalisé par **Yves Appriou** au sein de l'équipe MNEMOSYNE à l’INRIA Bordeaux, sous la supervision de Nicolas Rougier. Il s’inscrit dans le prolongement des travaux présentés dans la thèse de Naomi Chaix Eichel ([HAL](https://theses.hal.science/tel-04849313)) et du code [splitter-cells](https://github.com/naomichx/splitter-cells).
 
 ## 🎯 Objectif
 
